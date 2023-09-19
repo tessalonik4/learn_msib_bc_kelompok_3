@@ -1,6 +1,6 @@
  // Mendefinisikan variabel
 var nilai = 75;
-var nama = "John";
+var nama = "Tessa";
 var isLulus = false;
 
 // Mendefinisikan konstanta
@@ -51,3 +51,4 @@ if (isLulus) {
 } else {
   console.log(nama + " tidak lulus ujian.");
 }
+
